@@ -951,7 +951,7 @@ body
     margin-top:80px;
     border-radius: 10px;
 }
-#form-login #txtusername,#form-login #txtpassword
+#form-login #txtusername, #form-login #txtpassword, #form-login #txtemail, #form-login #txtphonenumber
 {
     display: block;
     width:  80%;
@@ -959,7 +959,7 @@ body
     margin: 0px auto;
     margin-top: 15px;
 }
-#form-login #txtusername:focus,#form-login #txtpassword:focus
+#form-login #txtusername:focus,#form-login #txtpassword:focus, #form-login #txtemail:focus, #form-login #txtphonenumber:focus
 {
     background: #ccc;
     color:rgb(0, 0, 0);
